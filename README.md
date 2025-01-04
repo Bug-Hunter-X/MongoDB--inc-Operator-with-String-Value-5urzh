@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB when using the $inc operator.  The `bug.js` file shows the incorrect usage of $inc with a string, leading to an unexpected outcome.  The correct solution is provided in `bugSolution.js`.
